@@ -1,10 +1,8 @@
 body {
   font-family: Georgia, Times, serif;
-  color: rgb (133, 199, 158);
+  background-color: rgb (133, 199, 158);
   padding: 10px;
 }
-.page {
-  border: 1px solid #076625;
-  background-color: efefef;
-  padding: inherit;
-}
+h1 {
+  color: rgb(0,0,0);
+}s
