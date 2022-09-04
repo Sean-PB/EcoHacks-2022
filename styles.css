@@ -2,7 +2,9 @@ body {
   font-family: Georgia, Times, serif;
   background-color: rgb (133, 199, 158);
   padding: 10px;
+  text-align: center;
 }
+
 h1 {
   color: rgb(0,0,0);
 }
@@ -18,7 +20,6 @@ th {
 table {
   border:2px solid black;
 }
-
 
 /* Hides the state populations collapsible by default */
 .stateContent {
