@@ -5,11 +5,15 @@ body {
   text-align: center;
 }
 
+header {
+  padding: 10px;
+}
+
 h1 {
   color: rgb(0,0,0);
 }
 
-table, td {
+td {
   border:1px solid black;
 }
 
@@ -19,6 +23,10 @@ th {
 
 table {
   border:2px solid black;
+}
+
+tr {
+  background-color: rgb(195, 155, 119);
 }
 
 /* Hides the state populations collapsible by default */
